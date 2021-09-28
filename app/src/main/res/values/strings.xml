@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="show_cat_btn_text">Показать котика</string>
+    <string name="show_duck_btn_text">Показать утку</string>
+</resources>
