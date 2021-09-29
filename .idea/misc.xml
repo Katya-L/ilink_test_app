@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Hp/YandexDisk/ilinkTestApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/drawable/ic_like.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/drawable/ic_liked.xml" value="0.2203125" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/layout/custom_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/layout/fragment_add.xml" value="0.33" />
+        <entry key="..\:/Users/Hp/YandexDisk/ilink_test_app/app/src/main/res/layout/fragment_list.xml" value="0.18432971014492755" />
       </map>
     </option>
   </component>
